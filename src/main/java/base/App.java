@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Nicolas Milescu-Brahmbhatt
+ */
+
 package base;
 import java.time.Year;
 import java.util.Scanner;
